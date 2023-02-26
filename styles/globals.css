@@ -131,7 +131,7 @@ a {
 }
 
 div#navbarNav{
-  height: 76px;
+/*   height: 76px; */
   align-items: end;
 }
 
@@ -193,7 +193,7 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-dark{
     color: white;
     display: flex;
     align-items: center;
-    height: auto;
+    height: 100vh;
   }
 
 #LearnMore{
