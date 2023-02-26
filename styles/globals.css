@@ -132,7 +132,7 @@ a {
 }
 
 div#navbarNav{
-/*   height: 76px; */
+  height: 76px;
   align-items: end;
 }
 
