@@ -192,8 +192,9 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-dark{
     background: #000001;
     color: white;
     display: flex;
-    align-items: center;
-    height: 100vh;
+        align-items: flex-start;
+    height: 112vh;
+    
   }
 
 #LearnMore{
